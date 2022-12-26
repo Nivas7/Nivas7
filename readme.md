@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nivas7&label=Profile%20views&color=0e75b6&style=flat" alt="nivas7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nivas7" alt="nivas7" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/nivas124" target="blank"><img src="https://img.shields.io/twitter/follow/nivas124?logo=twitter&style=for-the-badge" alt="nivas124" /></a> </p>
 
 - 🌱 I’m currently learning **React Native, Next js**
