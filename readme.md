@@ -6,6 +6,8 @@
 
 `Hi, I'm Srinivas.`
 
+<!-- <img align="right" alt="profile" width="500px" height="500px" ob  src="https://art.pixilart.com/c08557cf585b.gif"  /> -->
+
 - 🔭 I’m currently studying *BE ~ Computer Science*
 - 🌱 I’m currently learning `pytorch` ,`C++` and `WebDevelopment`
 - ⚡ 2024 goals - improve my study culture and learn time management (among other things)
@@ -14,7 +16,6 @@
 ### `social links:`
 [<img align="left" alt="kaggle" width="22px" src="https://www.iconfinder.com/icons/4519136/download/svg/4096" />][kaggle]
 [<img align="left" alt="twitter" width="22px" src="https://www.iconfinder.com/icons/317720/download/png/64" />][twitter]
-[<img align="left" alt="medium" width="22px" src="https://www.iconfinder.com/icons/5296526/download/png/64" />][medium]
 [<img align="left" alt="linkedin" width="22px" src="https://www.iconfinder.com/icons/4202085/download/png/64" />][linkedin]
 [<img align="left" alt="email" width="22px" src="https://www.iconfinder.com/icons/4202011/download/svg/4096" />][gmail]
 <br>
