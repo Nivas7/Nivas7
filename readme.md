@@ -4,7 +4,7 @@
 [kaggle]: https://www.kaggle.com/nivas7
 
 
-`Hi, I'm Pritom.`
+`Hi, I'm Srinivas.`
 
 - 🔭 I’m currently studying *BE ~ Computer Science*
 - 🌱 I’m currently learning `pytorch` ,`C++` and `WebDevelopment`
