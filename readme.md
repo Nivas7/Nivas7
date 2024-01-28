@@ -1,28 +1,40 @@
-# 💫 About Me:
-Hi there! I am Nivas! You might also know me as Nivas. I've been coding for over 2 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.
+[twitter]: https://www.twitter.com/Srinivas124
+[linkedin]: https://www.linkedin.com/in/srinivas-r-0a7b6b225/
+[gmail]: mailto:nivasniyas24@gmail.com
+[kaggle]: https://www.kaggle.com/nivas7
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/o__.nivaz.__o) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/srinivas-r) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Nivas124) 
+`Hi, I'm Pritom.`
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nivas7&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nivas7&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 🔭 I’m currently studying *BE ~ Computer Science*
+- 🌱 I’m currently learning `pytorch` ,`C++` and `WebDevelopment`
+- ⚡ 2024 goals - improve my study culture and learn time management (among other things)
+- 🗒️ here is [my blog](https://Nivas7.github.io) and [my resume](https://Nivas7.github.io/resume/index.html)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nivas7&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+### `social links:`
+[<img align="left" alt="kaggle" width="22px" src="https://www.iconfinder.com/icons/4519136/download/svg/4096" />][kaggle]
+[<img align="left" alt="twitter" width="22px" src="https://www.iconfinder.com/icons/317720/download/png/64" />][twitter]
+[<img align="left" alt="medium" width="22px" src="https://www.iconfinder.com/icons/5296526/download/png/64" />][medium]
+[<img align="left" alt="linkedin" width="22px" src="https://www.iconfinder.com/icons/4202085/download/png/64" />][linkedin]
+[<img align="left" alt="email" width="22px" src="https://www.iconfinder.com/icons/4202011/download/svg/4096" />][gmail]
+<br>
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Nivas124)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+### `languages and tools:`
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+```yaml
+languages: Python, C, C++, bash, javascript, java
+familiar ml/ai tools: tensorflow, pytorch, fastai
+familiar Web dev: React, Next, Backend, React Query
+  - other: flask, fastapi, gnu makefile
+  
+OS: Ubuntu
+editors: Vim, neovim
+```
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nivas7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<p align="center">
+  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=nivas7&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula" />
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=Nivas7&icon=4&color=0)](https://visitcount.itsvg.in)
-
+<p align="center">
+          <img alt="github lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivas7&layout=compact&theme=dracula&hide_border=true"/>
+</p> 
