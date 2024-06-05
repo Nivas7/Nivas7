@@ -28,7 +28,7 @@ familiar ml/ai tools: tensorflow, pytorch, fastai
 familiar Web dev: React, Next, Backend, React Query
   - other: flask, fastapi, gnu makefile
   
-OS: Ubuntu
+OS: Arch btw;)
 editors: Vim, neovim
 ```
 
