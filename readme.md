@@ -7,5 +7,5 @@
 - My dotfiles can be found here: <a href="https://github.com/Nivas7/Dotfiles">Nivas7/Dotfiles</a>.
 - I'm currently learning **GO & blockchain** related stuff.
 
-| <a href="https://nivas7.github.io" target="_blank">nivas7.github.io</a> | <a href="https://twitter.com/Nivaz124" target="_blank">twitter/x</a> | <a href="https://dev.to/Nivaz" target="_blank">dev.to</a> | <a href="https://linkedin.com/in/Nivaz" target="_blank">linkedin</a> |
+| <a href="https://nivas7.github.io" target="_blank">nivas7.github.io</a> | <a href="https://twitter.com/Nivas124" target="_blank">twitter/x</a> | <a href="https://dev.to/Nivaz" target="_blank">dev.to</a> | <a href="https://linkedin.com/in/Nivaz" target="_blank">linkedin</a> |
 | - | - | - | - |
