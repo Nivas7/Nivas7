@@ -49,7 +49,7 @@ jobs:
           # Options
           base: ""
           base_hireable: yes
-          config_timezone: America/Buenos_Aires
+          config_timezone: Asia/Kolkata
           plugin_anilist: yes
           plugin_anilist_limit: 2
           plugin_anilist_limit_characters: 22
