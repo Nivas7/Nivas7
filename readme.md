@@ -1,11 +1,20 @@
-#### hi, I'm Srinivas
-![Nivas7](https://komarev.com/ghpvc/?username=nivas7&color=22272e)
-
-- Reach me at <a href="mailto:nivasniyas24@gmail.com" target="_blank">nivasniyas24@gmail.com</a> or see my <a href="https://nivas7.github.io" target="_blank">website</a> for more links!
-- I have experience working with **Node.js, TypeScript, React.js, Next.js, PostgreSQL, Docker** and much more!
-- I write about **programming, linux** and other stuffs on <a href="https://nivas7.github.io/blog" target="_blank">my blog</a>.
-- My dotfiles can be found here: <a href="https://github.com/Nivas7/Dotfiles">Nivas7/Dotfiles</a>.
-- I'm currently learning **GO & blockchain** related stuff.
-
-| <a href="https://nivas7.github.io" target="_blank">nivas7.github.io</a> | <a href="https://twitter.com/Nivas124" target="_blank">twitter/x</a> | <a href="https://dev.to/Nivaz" target="_blank">dev.to</a> | <a href="https://linkedin.com/in/Nivaz" target="_blank">linkedin</a> |
-| - | - | - | - |
+<table>
+<tbody>
+  <tr>
+    <td>
+      <img align="left" width="345" alt="🦑" src="https://64.media.tumblr.com/62710c9aed5c3f4b7d23700e39bf13a6/ac2a7e65e2f3ff68-50/s540x810/41fb833ef965bec6fbfb06bc9199fa0455457726.gif"/>
+    </td>
+    <td valign="top">
+      <img align="right" width="180" alt="🦑" src="https://count.getloli.com/get/@:linuxmobile?theme=rule34"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img align="left" alt="🦑" src="/general.svg"/>
+    </td>
+    <td valign="top">
+      <img align="right" alt="🦑" src="/medias.svg"/>
+    </td>
+  </tr>
+</tbody>
+</table>
